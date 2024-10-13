@@ -1,7 +1,8 @@
 def example():
     print("Hello, World! (c) Kazantsev")
     
-example()
+example()
+
 
 def example():
     return True
